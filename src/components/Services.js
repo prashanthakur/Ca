@@ -1,7 +1,7 @@
 import React from 'react'
 import './services.css'
 import icon from '../images/tax3.png'
-import icon2 from '../images/tax2.jpg'
+// import icon2 from '../images/tax2.jpg'
 import icon3 from '../images/rent.png'
 import icon4 from '../images/license.jpg'
 import icon5 from '../images/income-tax.jpg'
