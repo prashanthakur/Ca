@@ -20,7 +20,7 @@ const Services = () => {
       <div className='services-card col-md-2 col-sm-12'>
       <ScrollAnimation animateIn="flipInY" animateOut='bounce'>
         <div className='text-center'>
-          <img src={icon}/>
+          <img src={icon} alt="image"/>
         </div>
         <div>
           <p className='allservices-texts'>GST Registration and return filing</p>
@@ -31,7 +31,7 @@ const Services = () => {
       
       <div className='services-card col-md-2 col-sm-12'>
         <div className='text-center'>
-          <img src={icon}/>
+          <img src={icon} alt="image"/>
         </div>
         <div>
           <p className='allservices-texts'>Income Tax return filing</p>
@@ -39,7 +39,7 @@ const Services = () => {
       </div>
       <div className='services-card col-md-2 col-sm-12'>
         <div className='text-center'>
-          <img src={icon}/>
+          <img src={icon} alt="image"/>
         </div>
         <div>
           <p className='allservices-texts'>Accounting & book keeping</p>
@@ -47,7 +47,7 @@ const Services = () => {
       </div>
       <div className='services-card col-md-2 col-sm-12'>
         <div className='text-center'>
-          <img src={icon}/>
+          <img src={icon} alt="image"/>
         </div>
         <div>
           <p className='allservices-texts'>Audit & Assurance</p>
@@ -56,7 +56,7 @@ const Services = () => {
       {/* Another 4 cards starts here */}
       <div className='services-card col-md-2 col-sm-12'>
         <div className='text-center'>
-          <img src={icon}/>
+          <img src={icon} alt="image"/>
         </div>
         <div>
           <p className='allservices-texts'>Advisory</p>
@@ -64,7 +64,7 @@ const Services = () => {
       </div>
       <div className='services-card col-md-2 col-sm-12'>
         <div className='text-center'>
-          <img src={icon}/>
+          <img src={icon} alt="image"/>
         </div>
         <div>
           <p className='allservices-texts'>Investment & financial planning</p>
@@ -72,7 +72,7 @@ const Services = () => {
       </div>
       <div className='services-card col-md-2 col-sm-12'>
         <div className='text-center'>
-          <img src={icon}/>
+          <img src={icon} alt="image"/>
         </div>
         <div>
           <p className='allservices-texts'>Annual return filing</p>
@@ -80,7 +80,7 @@ const Services = () => {
       </div>
       <div className='services-card col-md-2 col-sm-12'>
         <div className='text-center'>
-          <img src={icon}/>
+          <img src={icon} alt="image"/>
         </div>
         <div>
           <p className='allservices-texts'>Bussiness and tax registration</p>
@@ -96,21 +96,21 @@ const Services = () => {
     </h2>
       <div class="col-md-5 other-service-cards">
         <div>
-        <img src={icon3}/>
+        <img src={icon3} alt="image"/>
         <span className='texts-others-services'>Rent agreements</span>
         </div>
         
       </div>
       <div class="col-md-5 other-service-cards">
-        <img src={icon4}/>
+        <img src={icon4} alt="image"/>
         <span className='texts-others-services'>Driving License</span>
       </div>
       <div class="col-md-5 other-service-cards">
-      <img src={icon5}/>
+      <img src={icon5} alt="image"/>
         <span className='texts-others-services'>TDS return filing</span>
       </div>
       <div class="col-md-5 other-service-cards">
-        <img src={icon6} className="star-health-logo"/>
+        <img src={icon6} className="star-health-logo" alt="image"/>
         <span className='texts-others-services'>Star health insurance</span>
         </div>
     </div>
