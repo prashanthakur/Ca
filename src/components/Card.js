@@ -1,13 +1,13 @@
 import React from 'react';
 import './hero.css'
 import { FaCheck} from "react-icons/fa";
-import Parallax from 'react-rellax';
-import { motion } from 'framer-motion';
+// import Parallax from 'react-rellax';
+// import { motion } from 'framer-motion';
 
-const transition = {
-  duration: 1,
-  type: "spring",
-};
+// const transition = {
+//   duration: 1,
+//   type: "spring",
+// };
 
 const Card = () => {
   return (
