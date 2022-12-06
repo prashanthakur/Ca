@@ -1,7 +1,7 @@
 import React , {useState} from 'react'
 import './headertwo.css'
-import { FaHamburger , FaAlignJustify, FaTimes} from "react-icons/fa";
-import { Link , NavLink} from 'react-router-dom';
+import { FaAlignJustify, FaTimes} from "react-icons/fa";
+import { NavLink} from 'react-router-dom';
 
 const HeaderTwo = () => {
     const [menu, setMenu] = useState(false);
