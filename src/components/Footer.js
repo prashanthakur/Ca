@@ -14,8 +14,8 @@ const Footer = () => {
             </div>
             <div className='col-md-4 col-sm-12'> 
                 <p className='connect'>Connect with us</p>
-                <p className='details'>Email : psthakur@gmail.com</p>
-                <p className='details'>Mobile : 9910368109</p>
+                <p className='details'>Email : thakurps9990@gmail.com</p>
+                <p className='details'>Mobile : 9354277437</p>
                 
             </div>   
         </div>
