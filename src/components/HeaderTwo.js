@@ -10,7 +10,7 @@ const HeaderTwo = () => {
     <div className='announcement text-center'>This is in development mode ! Can change anytime.</div>
     <nav className='main-nav'>
         <div className='name-logo'>
-            {/* Prabhat Singh & Associates */}
+            Prabhat Singh & Associates
         </div>
         <div className={menu ? "nav-links-mobile" : "nav-links"}>
             <ul className='nav-links-ul'>
