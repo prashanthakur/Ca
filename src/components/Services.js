@@ -9,7 +9,7 @@ import icon6 from '../images/star-health.png'
 import ScrollAnimation from 'react-animate-on-scroll';
 
 
-import Parallax from 'react-rellax'
+// import Parallax from 'react-rellax'
 
 const Services = () => {
   return (
